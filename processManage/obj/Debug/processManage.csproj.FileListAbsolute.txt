@@ -1,0 +1,9 @@
+E:\大三\操作系统\processManage\bin\Debug\processManage.exe.config
+E:\大三\操作系统\processManage\bin\Debug\processManage.exe
+E:\大三\操作系统\processManage\bin\Debug\processManage.pdb
+E:\大三\操作系统\processManage\obj\Debug\processManage.csprojAssemblyReference.cache
+E:\大三\操作系统\processManage\obj\Debug\processManage.Form2.resources
+E:\大三\操作系统\processManage\obj\Debug\processManage.Properties.Resources.resources
+E:\大三\操作系统\processManage\obj\Debug\processManage.csproj.GenerateResource.cache
+E:\大三\操作系统\processManage\obj\Debug\processManage.exe
+E:\大三\操作系统\processManage\obj\Debug\processManage.pdb
